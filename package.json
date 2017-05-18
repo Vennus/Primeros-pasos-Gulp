@@ -1,0 +1,21 @@
+{
+  "name": "gulp-primeros-pasos",
+  "version": "1.0.0",
+  "description": "aprendiendo",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "monica",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-uglify": "^2.1.2"
+  },
+
+  "keywords": []
+}
